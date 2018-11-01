@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="/usr/share/sbt-launcher-packaging/bin/sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/usr/jdk1.8.0_171" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="sbtVersion" value="1.2.3" />
+      </SbtProjectSettings>
+    </option>
+    <option name="vmParameters" value="-XX:MaxPermSize=384M -Dsbt.ivy.home=/home/qiqipchy/.ivy2 -Dsbt.repository.config=/home/qiqipchy/.sbt/repositories -Dsbt.override.build.repos=true" />
+  </component>
+</project>
