@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrentscala_1608.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrentscala_1608.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrentscala_1608-build.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrentscala_1608-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrentscala.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrentscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrentscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrentscala-build.iml" />
     </modules>
   </component>
 </project>
