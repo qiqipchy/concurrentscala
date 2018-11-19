@@ -15,7 +15,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: commons-io:commons-io:2.4:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-async_2.11:0.9.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.netflix.rxjava:rxjava-scala:0.19.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.netflix.rxjava:rxjava-core:0.19.1:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.11.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-async_2.11:0.9.1:jar" level="project" />
   </component>
 </module>

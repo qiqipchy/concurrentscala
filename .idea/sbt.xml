@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ScalaSbtSettings">
     <option name="customLauncherEnabled" value="true" />
-    <option name="customLauncherPath" value="/usr/share/sbt-launcher-packaging/bin/sbt-launch.jar" />
+    <option name="customLauncherPath" value="/usr/share/sbt/bin/sbt-launch.jar" />
     <option name="customVMEnabled" value="true" />
     <option name="customVMPath" value="/usr/jdk1.8.0_171" />
     <option name="linkedExternalProjectsSettings">
